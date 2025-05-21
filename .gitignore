@@ -1,0 +1,8 @@
+# ignore macOS metadata
+.DS_Store
+
+# ignore temp office files
+~$*
+
+# ignore src code for .NET app
+src

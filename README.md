@@ -1,0 +1,3 @@
+# Azure in a Day
+
+This course introduces core Azure services through a series of progressive labs. Participants will deploy and connect services like Azure Storage, SQL Database, Key Vault, App Service, and Virtual Machines using the Azure Portal. Each lab builds practical experience with common cloud scenarios and allows students to build hands-on experience with deploying and managing cloud resources.
